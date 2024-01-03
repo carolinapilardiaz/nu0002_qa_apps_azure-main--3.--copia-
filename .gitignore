@@ -1,0 +1,5 @@
+Data/
+__pycache__/
+.chroma
+.ipynb_checkpoints
+models/

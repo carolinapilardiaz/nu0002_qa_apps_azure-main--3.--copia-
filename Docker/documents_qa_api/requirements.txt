@@ -1,0 +1,16 @@
+fastapi==0.95.2
+gunicorn==20.1.0
+uvicorn==0.22.0
+python-multipart==0.0.5
+pickle5==0.0.11
+pandas==1.4.3
+pyglet==1.5.27
+openai==0.27.6
+llama-index==0.4.23
+langchain==0.0.299
+tiktoken==0.3.3
+graphsignal==0.13.26
+pypdf==3.8.1
+azure-cognitiveservices-vision-computervision==0.9.0
+azure-identity==1.13.0
+azure-search-documents==11.4.0b8
